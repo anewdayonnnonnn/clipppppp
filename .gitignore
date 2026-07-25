@@ -1,0 +1,26 @@
+# Data (medical images - too large, private)
+data/
+
+# Training outputs (checkpoints, logs)
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# HuggingFace cache
+hf_home/
+
+# OS
+.DS_Store
+Thumbs.db
